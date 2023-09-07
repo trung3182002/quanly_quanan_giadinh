@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\DAMH_Nhom05_2001203007_TruongThanhTrung_QuanLyQuanAn_ALL\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS\Desktop\DAMH_Nhom05_2001203007_TruongThanhTrung_QuanLyQuanAn_ALL\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS\Desktop\DAMH_Nhom05_2001203007_TruongThanhTrung_QuanLyQuanAn_ALL\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\DAMH_Nhom05_2001203007_TruongThanhTrung_QuanLyQuanAn_ALL\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS\Desktop\DAMH_Nhom05_2001203007_TruongThanhTrung_QuanLyQuanAn_ALL\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\DTO\obj\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\DTO\bin\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\DTO\bin\Debug\DTO.pdb
+D:\file_BT_TH_HQTCSDL\Máy tính\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\DTO\obj\Debug\DTO.dll
+D:\file_BT_TH_HQTCSDL\Máy tính\DAMH_Nhom05_2001203007_QuanLyQuanAn_PhanCode\DTO\obj\Debug\DTO.pdb
